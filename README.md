@@ -4,6 +4,7 @@
 
 ```bash
 brew tap sjonas50/tap
+brew trust --formula sjonas50/tap/attic-ai   # Homebrew 7+ loads third-party formulae only once trusted
 brew install attic-ai
 attic-ai-install
 ```
