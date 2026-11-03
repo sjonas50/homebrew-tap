@@ -1,8 +1,8 @@
 class AtticAi < Formula
   desc "AI-first offline knowledge platform — local inference, RAG, and mesh networking"
   homepage "https://github.com/sjonas50/TheAtticAI"
-  url "https://github.com/sjonas50/TheAtticAI/releases/download/v2.2.1/attic-ai-v2.2.1-docker.zip"
-  sha256 "a9a6053def602f6f3d08ec4777b7464ebf446c292d9f9f0e2887383ac4a78c52"
+  url "https://github.com/sjonas50/TheAtticAI/releases/download/v2.3.0/attic-ai-v2.3.0-docker.zip"
+  sha256 "95a6b053cabf9200cee0d67ef9f97a24116e0ecd5646bb80e3e2b80af4c24afb"
   license "MIT"
 
   livecheck do
